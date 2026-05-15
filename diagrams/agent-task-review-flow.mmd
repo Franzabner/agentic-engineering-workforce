@@ -1,0 +1,8 @@
+flowchart TD
+  Intake["Synthetic task intake"] --> Boundary["Boundary classification"]
+  Boundary --> Plan["Agent plan under human authority"]
+  Plan --> Execute["Scoped execution"]
+  Execute --> Validate["Validation and review"]
+  Validate --> Handoff["Handoff or refusal"]
+  Handoff --> Human["Human approval before public creation"]
+

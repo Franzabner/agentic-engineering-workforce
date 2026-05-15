@@ -1,0 +1,2 @@
+# Scaffold only. No runtime dependencies required for boundary validation.
+
