@@ -1,12 +1,12 @@
 # Agentic Engineering Workforce
 
 Status: scaffolded
-Publication state: private/not-public
+Publication state: public scaffold
 Release state: not released
 
 ## What This Repo Is
 
-`agentic-engineering-workforce` is a Phase 7 local-only scaffold for public-safe agentic engineering lifecycle discipline under human authority.
+`agentic-engineering-workforce` is a Phase 7 public scaffold for public-safe agentic engineering lifecycle discipline under human authority.
 
 ## What This Repo Is Not
 
@@ -17,12 +17,12 @@ This repo is not an active agent workforce, autonomous production agent system, 
 | Field | Value |
 | --- | --- |
 | Status | scaffolded |
-| Publication state | private/not-public |
+| Publication state | public scaffold |
 | Release state | not released |
-| Public GitHub repo | not created |
+| Public GitHub repo | published scaffold |
 | First artifact | `execution-loops/codex-style-execution-loop.md` completed as scaffolded synthetic artifact |
-| Published artifact | private/not-public |
-| Released artifact | not released |
+| Published artifact | scaffolded |
+| Released artifact | private/not-public or not released |
 | Profile routing | planned |
 | Proof-stack routing | planned |
 
@@ -66,9 +66,9 @@ Run `scripts/validate-public-boundary.sh`, the plan-listed boundary/status `rg` 
 
 This repo contains public-safe agentic engineering workflow patterns only. It must not contain active agent workforce claims, autonomous production agent claims, internal specialist prompts, private agent memory, sealed agent memory, live tool tokens, credentials, private repo paths, customer data, Foundation-private data, production execution logs, private runtime details, internal coordination layer internals, released software claims, or internal company product names.
 
-## Links Back After Public Creation
+## Links Back After Public Scaffold Publication
 
-Profile routing and proof-stack routing are planned only. Any links from `Franzabner` or `franzabner-proof-stack` require separate reviewed patches after public creation approval.
+Profile routing and proof-stack routing are planned only. Any links from `Franzabner` or `franzabner-proof-stack` require separate reviewed patches.
 
 ## First Build Task
 

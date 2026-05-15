@@ -53,7 +53,7 @@ These roles are public-safe task patterns only, not active agent workforce claim
 4. Execute: patch only approved surfaces.
 5. Validate: run boundary, status, whitespace, and repo checks.
 6. Review: report changed files, validation results, risks, and held items.
-7. Handoff: stop before public creation, metadata, routing, push, publication, or release unless separately approved.
+7. Handoff: stop before metadata, routing, publication expansion, or release unless separately approved.
 
 ## Synthetic Task Lifecycle
 
@@ -110,7 +110,7 @@ flowchart TD
 
 - Agentic engineering workflows can be documented as bounded task lifecycles under human authority.
 - Tool permissions, review gates, logging, refusal, and handoff can be described without private runtime details or production execution.
-- Human approval boundaries can be made explicit before public creation, metadata, routing, publication, or release.
+- Human approval boundaries can be made explicit before metadata, routing, publication expansion, or release.
 
 ## What This Does Not Prove
 
