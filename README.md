@@ -20,7 +20,7 @@ This repo is not an active agent workforce, autonomous production agent system, 
 | Publication state | private/not-public |
 | Release state | not released |
 | Public GitHub repo | not created |
-| First artifact | `execution-loops/codex-style-execution-loop.md` scaffolded |
+| First artifact | `execution-loops/codex-style-execution-loop.md` completed as scaffolded synthetic artifact |
 | Published artifact | private/not-public |
 | Released artifact | not released |
 | Profile routing | planned |
@@ -72,5 +72,4 @@ Profile routing and proof-stack routing are planned only. Any links from `Franza
 
 ## First Build Task
 
-Complete `execution-loops/codex-style-execution-loop.md` with a synthetic agentic engineering context, human authority rule, execution loop, role boundaries, tool permission boundaries, review gates, refusal rules, logging boundary, Mermaid diagram, validation questions, proof limits, and public/private/sealed checklist.
-
+First artifact completed as scaffolded: `execution-loops/codex-style-execution-loop.md` covers synthetic agentic execution context, human authority rule, specialist role pattern, tool permission matrix summary, review gate lifecycle, synthetic task lifecycle, logging and refusal rules, human approval boundary, Mermaid diagram, validation questions, proof limits, and public/private/sealed checklist.
